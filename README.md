@@ -11,6 +11,9 @@ A 3D printed modular homelab rack, with dedicated compartments for router, hard 
 
 Demo: https://autode.sk/4ulCkrF
 
+i desgined this to manage multiple stuff all together in a single small tower, from raspberry pis to hard drives to router space with modular feature so i can add or rearrange the layers as i want.
+i started it building from base layer to store extra stuff or router which goes same for the top, and in between i have 2 dedicated racks for hard drives and raspberry pis with air vents for heat passing with 2 cable holders on each layer to easily manage cables.
+
 CAD:
 
 <img width="437" height="601" alt="image" src="https://github.com/user-attachments/assets/e8d5a726-5027-4ba1-8ce8-0d8da7b60e37" /> <br>
