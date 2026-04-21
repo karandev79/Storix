@@ -1,6 +1,15 @@
-# Storix
+# Storix - modular homelab rack
 
 A 3D printed modular homelab rack, with dedicated compartments for router, hard drives for NAS, raspberry pi cluster and switch. combining, all in one easy to setup and customizable modular homelab rack.
+
+### Features
+
+- modular 3d printed design for easy customization and expansion
+- dedicated compartments for router, nas drives, raspberry pi cluster and switch
+- all in one compact setup to keep everything organized and accessible
+- quick and simple assembly with clean cable management support
+
+Demo: https://autode.sk/4ulCkrF
 
 CAD:
 
